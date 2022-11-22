@@ -1,3 +1,3 @@
 # JavaAttempt
 
-Failed attempt at javascript assessment.
+Better Late than Never
